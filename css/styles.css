@@ -46,10 +46,6 @@ input {
 
 /* #region Common styles*/
 
-.hidden {
-  display: none;
-}
-
 .container {
   max-width: 320px;
   padding: 0 16px;
